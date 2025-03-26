@@ -6,7 +6,7 @@
   "pluginType": "DB",
   "unpublishedAction": {
     "actionConfiguration": {
-      "body": "SELECT * FROM public.\"users\" LIMIT {{inputs.limit}} ;",
+      "body": "SELECT * FROM public.\"users\" where gender={{inputs.gender}} LIMIT {{inputs.limit}} ; ",
       "encodeParamsToggle": true,
       "paginationType": "NONE",
       "pluginSpecifiedTemplates": [

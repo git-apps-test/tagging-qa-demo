@@ -12,6 +12,13 @@
             "id": "kbooxiaskb",
             "label": "limit",
             "propertyName": "inputs.limit"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "female",
+            "id": "bykokbrpcs",
+            "label": "gender",
+            "propertyName": "inputs.gender"
           }
         ],
         "id": "qtddcmavma",
