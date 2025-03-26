@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67e3e93018388e76895d4238_c7c31d33-a1f4-4e55-bb72-eac58c8573c6",
+  "moduleUUID": "b654c41b-62c1-4dbb-b877-041e1d13def9",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "qtddcmavma",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}

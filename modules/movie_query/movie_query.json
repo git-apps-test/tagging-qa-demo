@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67e3e93018388e76895d4238_6350eee8-9f87-4864-b4fb-d5f5bc971e85",
+  "moduleUUID": "00563812-cbd2-40a9-a8b2-349fcc886224",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "nrtnvkinnj",
+        "sectionName": ""
+      }
+    ],
+    "name": "movie_query"
+  }
+}
